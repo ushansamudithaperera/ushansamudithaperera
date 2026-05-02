@@ -18,17 +18,17 @@
 
 ```yaml
 name: Ushan Samuditha Perera
-location: Sri Lanka 🇱🇰
-education: Software Engineering Student
-passion: Building impactful software
+location: Rathnapura, Sri Lanka 🇱🇰
+education: Electronics and Computer Science student
+passion: Computer Science, Electronics 
 
 currently:
   - 🔭 Working on exciting full-stack projects
-  - 🌱 Learning Cloud & DevOps technologies
+  - 🌱 Learning Cloud & DevOps technologies, Learning about AI & ML  
   - 👯 Looking to collaborate on Open Source
   - 💬 Ask me about Web Dev & Software Design
 
-fun_fact: "I debug with coffee ☕ and determination 💪"
+
 ```
 
 <br clear="right"/>
@@ -62,8 +62,7 @@ fun_fact: "I debug with coffee ☕ and determination 💪"
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -71,7 +70,6 @@ fun_fact: "I debug with coffee ☕ and determination 💪"
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
