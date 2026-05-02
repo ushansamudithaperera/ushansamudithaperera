@@ -1,15 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:6E40C9,100:0d1117&height=250&section=header&text=Ushan%20Samuditha%20Perera&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Electronics%20%26%20Computer%20Science%20Student%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descAlignY=60&descSize=15&stroke=6E40C9&strokeWidth=2" />
+<!-- HEADER BANNER - capsule-render (reliable) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Ushan%20Samuditha%20Perera&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronics%20%26%20Computer%20Science%20Student%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descAlignY=58&descSize=15" width="100%" />
 
 <br/>
 
+<!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&height=50&lines=Full+Stack+Developer+%F0%9F%9A%80;IoT+%26+Embedded+Systems+Enthusiast+%F0%9F%94%8C;DevOps+%7C+Cloud+%7C+AI%2FML+Explorer+%E2%9A%99%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning%2C+Always+Building+%F0%9F%92%AA" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
+<!-- BADGES -->
 ![Profile Views](https://komarev.com/ghpvc/?username=ushansamudithaperera&color=7c3aed&style=flat-square&label=Profile+Views)
 &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/ushansamudithaperera?label=Followers&style=flat-square&color=7c3aed&labelColor=1f1f2e)](https://github.com/ushansamudithaperera)
@@ -20,7 +23,8 @@
 
 ---
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<!-- ABOUT ME -->
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ## 👨‍💻 About Me
 
@@ -52,25 +56,21 @@ Goals 2026:
 <div align="center">
 
 ### 💻 Languages
-
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c,cpp,cs,php&theme=dark&perline=10" />
 
 <br/>
 
 ### 🌐 Frontend
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark&perline=10" />
 
 <br/>
 
 ### ⚙️ Backend
-
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet&theme=dark&perline=10" />
 
 <br/>
 
 ### 🗄️ Databases
-
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,oracle&theme=dark&perline=10" />
 &nbsp;
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
@@ -78,13 +78,11 @@ Goals 2026:
 <br/>
 
 ### ☁️ Cloud, DevOps & Infrastructure
-
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux&theme=dark&perline=10" />
 
 <br/>
 
 ### 🧰 Tools & Platforms
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark&perline=10" />
 &nbsp;
 <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white" />
@@ -103,11 +101,7 @@ Goals 2026:
 &nbsp;
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushansamudithaperera&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=ushansamudithaperera&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa" />
 
@@ -134,8 +128,6 @@ Goals 2026:
 </div>
 
 ---
-
-## 🐍 Contribution Snake
 
 ## 🐍 Contribution Snake
 
@@ -167,7 +159,9 @@ Goals 2026:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%" />
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=120&section=footer&animation=fadeIn" width="100%" />
 
 **⭐ If you find my work helpful, please star my repositories! ⭐**
 
