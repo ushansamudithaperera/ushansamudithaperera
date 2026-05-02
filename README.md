@@ -137,13 +137,11 @@ Goals 2026:
 
 ## 🐍 Contribution Snake
 
+## 🐍 Contribution Snake
+
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ushansamudithaperera/ushansamudithaperera/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ushansamudithaperera/ushansamudithaperera/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/ushansamudithaperera/ushansamudithaperera/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+![Snake animation](https://github.com/ushansamudithaperera/ushansamudithaperera/blob/output/github-contribution-grid-snake-dark.svg?raw=true)
 
 </div>
 
