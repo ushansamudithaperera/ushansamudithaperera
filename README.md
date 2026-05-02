@@ -1,5 +1,9 @@
 <div align="center">
 
+<!-- HEADER BANNER - capsule-render (reliable) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Ushan%20Samuditha%20Perera&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronics%20%26%20Computer%20Science%20Student%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descAlignY=58&descSize=15" width="100%"/>
+<br/>
+
 <!-- TYPING ANIMATION - demolab reliable -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&height=60&lines=Hi+%F0%9F%91%8B+I'm+Ushan+Samuditha+Perera;Full+Stack+Developer+%F0%9F%9A%80;IoT+%26+Embedded+Systems+Enthusiast+%F0%9F%94%8C;DevOps+%7C+Cloud+%7C+AI%2FML+Explorer+%E2%9A%99%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning%2C+Always+Building+%F0%9F%92%AA" alt="Typing SVG" />
@@ -66,12 +70,10 @@ Goals 2026:
 <br/>
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=10" />
-&nbsp;
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-&nbsp;
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=10"/>
 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 <br/>
 
 ### ☁️ Cloud, DevOps & Infrastructure
@@ -93,11 +95,8 @@ Goals 2026:
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ushansamudithaperera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushansamudithaperera&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ushansamudithaperera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushansamudithaperera&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=ushansamudithaperera&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa" />
