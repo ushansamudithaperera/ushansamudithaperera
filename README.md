@@ -145,32 +145,6 @@ Goals 2026:
   <img alt="Snake animation" src="https://raw.githubusercontent.com/ushansamudithaperera/ushansamudithaperera/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-> **To activate the snake:** Create `.github/workflows/snake.yml` in your profile repo with the content below, then go to **Actions → Run workflow** once.
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ushansamudithaperera
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
 </div>
 
 ---
