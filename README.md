@@ -1,13 +1,8 @@
 <div align="center">
 
-<!-- HEADER BANNER - capsule-render (reliable) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Ushan%20Samuditha%20Perera&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronics%20%26%20Computer%20Science%20Student%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descAlignY=58&descSize=15" width="100%" />
-
-<br/>
-
-<!-- TYPING ANIMATION -->
+<!-- TYPING ANIMATION - demolab reliable -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&height=50&lines=Full+Stack+Developer+%F0%9F%9A%80;IoT+%26+Embedded+Systems+Enthusiast+%F0%9F%94%8C;DevOps+%7C+Cloud+%7C+AI%2FML+Explorer+%E2%9A%99%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning%2C+Always+Building+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&height=60&lines=Hi+%F0%9F%91%8B+I'm+Ushan+Samuditha+Perera;Full+Stack+Developer+%F0%9F%9A%80;IoT+%26+Embedded+Systems+Enthusiast+%F0%9F%94%8C;DevOps+%7C+Cloud+%7C+AI%2FML+Explorer+%E2%9A%99%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning%2C+Always+Building+%F0%9F%92%AA" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -30,7 +25,7 @@
 
 ```yaml
 Name    : Ushan Samuditha Perera
-From    : Rathnapura, Sri Lanka
+From    : Rathnapura, Sri Lanka 🇱🇰
 Study   : Electronics & Computer Science
 Focus   : Full Stack | IoT | DevOps | AI/ML
 
@@ -71,9 +66,11 @@ Goals 2026:
 <br/>
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,oracle&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=10" />
 &nbsp;
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+&nbsp;
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 <br/>
 
@@ -85,9 +82,9 @@ Goals 2026:
 ### 🧰 Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark&perline=10" />
 &nbsp;
-<img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white" />
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)
 &nbsp;
-<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white" />
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
 
 </div>
 
@@ -159,9 +156,7 @@ Goals 2026:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=120&section=footer&animation=fadeIn" width="100%" />
+<br/><br/>
 
 **⭐ If you find my work helpful, please star my repositories! ⭐**
 
