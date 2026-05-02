@@ -84,10 +84,8 @@ Goals 2026:
 ### 🧰 Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark&perline=10" />
 &nbsp;
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)
-&nbsp;
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
-
+<img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white"/>
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white"/>
 </div>
 
 ---
