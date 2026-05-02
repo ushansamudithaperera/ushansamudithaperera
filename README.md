@@ -39,142 +39,53 @@
 🤝 Open to    → Open Source Collaboration
 💬 Ask me     → Web Dev & Software Design
 🎯 Goals 2026 → SaaS, Certifications, Portfolio
-```
-
-<br clear="right"/>
-
----
-
-## 🚀 Tech Stack
-
+<div style="clear: right;"></div>
+🚀 Tech Stack
 <div align="center">
-
-**Languages**
+Languages
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c,cpp,cs,php&theme=dark" />
-
-**Frontend**
+Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark" />
-
-**Backend**
+Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet&theme=dark" />
+Databases
 
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,oracle&theme=dark" />
-&nbsp;![SSMS](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-**Cloud, DevOps & Infrastructure**
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,oracle&theme=dark" /> &nbsp;![SSMS](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+Cloud, DevOps & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux&theme=dark" />
+Tools & Platforms
 
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
-&nbsp;![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)
-&nbsp;![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" /> &nbsp;![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white) &nbsp;![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)</div>
+📊 GitHub Stats
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=ushansamudithaperera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushansamudithaperera&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/></div><div align="center">
+https://streak-stats.demolab.com?user=ushansamudithaperera&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa
 
 </div>
-
----
-
-## 📊 GitHub Stats
-
+🏆 GitHub Trophies
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ushansamudithaperera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushansamudithaperera&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+https://github-profile-trophy.vercel.app/?username=ushansamudithaperera&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7
 
 </div>
-
+📈 Contribution Graph
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ushansamudithaperera&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+https://github-readme-activity-graph.vercel.app/graph?username=ushansamudithaperera&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=6E40C9&point=f59e0b
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
+🐍 Contribution Snake
+<div align="center"><!-- ⚠️ Setup required: Create `.github/workflows/snake.yml` in your profile repo with the Platane/snk action, then run it once to generate the SVG on the `output` branch. --><picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ushansamudithaperera/ushansamudithaperera/output/github-contribution-grid-snake-dark.svg"/> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ushansamudithaperera/ushansamudithaperera/output/github-contribution-grid-snake.svg"/> <img alt="Snake animation" src="https://raw.githubusercontent.com/ushansamudithaperera/ushansamudithaperera/output/github-contribution-grid-snake-dark.svg"/> </picture></div>
+🌐 Connect with Me
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ushansamudithaperera&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ushansamudithaperera&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=6E40C9&point=f59e0b)](https://github.com/ashutosh00710/github-readme-activity-graph)
+https://img.shields.io/badge/LinkedIn-%25230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Instagram-%2523E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white
+https://img.shields.io/badge/GitHub-%2523121011.svg?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 </div>
+<div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/><img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+⭐ If you like my work, star my repositories! ⭐
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-> ⚠️ **Setup required:** Create `.github/workflows/snake.yml` in your profile repo with the Platane/snk action, then run it once to generate the SVG on the `output` branch.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ushansamudithaperera/ushansamudithaperera/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ushansamudithaperera/ushansamudithaperera/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/ushansamudithaperera/ushansamudithaperera/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ushansamudithaperera)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ushansamudithaperera)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ushansamudithaperera)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samudithaperera01@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-**⭐ If you like my work, star my repositories! ⭐**
-
-</div>
-
-<!-- Snake workflow: create .github/workflows/snake.yml
-name: Generate Snake
-on:
-  schedule: [{cron: "0 0 * * *"}]
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ushansamudithaperera
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
+</div><!-- Snake workflow YAML – copy to .github/workflows/snake.yml name: Generate Snake on: schedule: [{cron: "0 0 * * *"}] workflow_dispatch: jobs: generate: runs-on: ubuntu-latest steps: - uses: Platane/snk/svg-only@v3 with: github_user_name: ushansamudithaperera outputs: | dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg?palette=github-dark - uses: crazy-max/ghaction-github-pages@v3.1.0 with: target_branch: output build_dir: dist env: GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} -->
