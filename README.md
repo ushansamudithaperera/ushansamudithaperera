@@ -2,7 +2,11 @@
 
 <!-- HEADER BANNER - keep animation -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Ushan%20Samuditha%20Perera&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronics%20%26%20Computer%20Science%20Student%20%7C%20Sri%20Lanka%20%F0%9F%87%B1%F0%9F%87%B0&descAlignY=58&descSize=15" width="100%"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Ushan%20Samuditha%20Perera&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronics%20and%20Computer%20Science%20Student&descAlignY=58&descSize=15" width="100%"/>
+
+</div>
 
 <br/>
 
