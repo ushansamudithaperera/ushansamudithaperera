@@ -6,7 +6,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Ushan%20Samuditha%20Perera&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronics%20and%20Computer%20Science%20Student&descAlignY=58&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Ushan%20Samuditha%20Perera&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=&descAlignY=58&descSize=15" width="100%"/>
 
 <br/>
 
