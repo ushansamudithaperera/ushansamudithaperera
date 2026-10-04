@@ -328,21 +328,21 @@ Desktop quiz management application featuring automated evaluation, real-time re
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ushansamudithaperera&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=ushansamudithaperera&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7" width="100%" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ushansamudithaperera&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=6E40C9&point=f59e0b" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ushansamudithaperera&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph" />
 
 </div>
 
