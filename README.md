@@ -28,9 +28,7 @@
 
  
 
-<a href="https://github.com/ushansamudithaperera?tab=repositories">
-<img src="https://img.shields.io/github/repositories/ushansamudithaperera?style=for-the-badge&color=A78BFA&labelColor=0D1117&label=REPOSITORIES" />
-</a>
+
 
 <br/><br/>
 
